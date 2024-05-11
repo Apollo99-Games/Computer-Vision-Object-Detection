@@ -32,21 +32,21 @@ This is nearly the same program but ported for desktop devices to detect small c
 // object width is in centimeters
 final double OBJECT_WIDTH = 3.0;
 
-// I used a really quich method of finding this value although does produce good results
+// I used a really quick method of finding this value although does produce good results
 final double FOCAL_LENGTH = 625.6;
 
 // FOCAL_LENGTH = (Width_of_Object_in_pixals x distance_away_from_camera) / Width_of_Object
 // These values can be measured from any distance away from the camera
-// make sure the distance is the same when finding the values for Width_of_Object_in_pixals and distance_away_from_camera
+//Make sure the distance is the same when finding the values for Width_of_Object_in_pixals and distance_away_from_camera
 
 // Width_of_Object_in_pixals can be found by printing the value of radius[0]*2 on line 217:
 double Distance = Math.round((OBJECT_WIDTH*FOCAL_LENGTH)/(radius[0]*2));
 
 
 // Note you will also have to set the lower and upper bounds of your toy ball's colour
-// This can be done on line 157. Note colours are in HSV.
+// This can be done on line 157. Note colors are in HSV.
 
-// ========== Set lower and upper colours ==========
+// ========== Set lower and upper colors ==========
 Scalar greenLower = new Scalar(29, 86, 6);
 Scalar greenUpper = new Scalar(64, 255, 255);
 
