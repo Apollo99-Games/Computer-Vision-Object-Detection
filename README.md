@@ -15,7 +15,7 @@ The first is a computer vision program to detect game pieces in the 2022 First R
 - Rapid React Game pieces
 
 ## Object Detector with JavaFX
-This is nearly the same program but ported for desktop devices to detect small coloured toy balls. This will gives the distance to the target.
+This is nearly the same program but ported for desktop devices to detect small colored toy balls. This will also give the distance to the target.
 
 ### Requirments
 - VS code or another IDE
