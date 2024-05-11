@@ -76,6 +76,12 @@ Note the program still sees the imposters, but can filter them out:
 
 Here are some photos but just with the ball removed. The program still doesn't fall for the dummy objects.
 
+![Screenshot 5_10_2024 8_59_48 PM](https://github.com/Apollo99-Games/Computer-Vision-Object-Detection/assets/163193765/0407653a-97fb-43d1-84c9-b948cbe24893)
+
+Here are two videos testing the accuracy of the distance. The first one is the view from the vision system, the other is from my phone to show the actual distance of the object
+
+https://github.com/Apollo99-Games/Computer-Vision-Object-Detection/assets/163193765/a02ab904-10bc-42e3-a8de-ea2c02bd560a
+
 
 
 
