@@ -82,7 +82,7 @@ Here are two videos testing the accuracy of the distance. The first one is the v
 
 https://github.com/Apollo99-Games/Computer-Vision-Object-Detection/assets/163193765/a02ab904-10bc-42e3-a8de-ea2c02bd560a
 
-
+https://github.com/Apollo99-Games/Computer-Vision-Object-Detection/assets/163193765/c0670e6b-aedd-4fb0-943f-746d44ef16a4
 
 
 
