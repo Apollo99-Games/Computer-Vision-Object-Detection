@@ -94,7 +94,7 @@ public class FXController
     {  
         if (!cameraOn)
         {
-            camera.open(1);
+            camera.open(0);
             
             if (camera.isOpened())
             {
