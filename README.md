@@ -26,7 +26,8 @@ This is nearly the same program but ported for desktop devices to detect small c
 ### Extra information
 
 ```java
-// You have to modify these values for your own camera (they are used to detect and get the distance of your object)
+// You have to modify these values for your own camera
+// (they are used to detect and get the distance of your object)
 // Note all code shown is from FXController.java
 
 // object width is in centimeters
