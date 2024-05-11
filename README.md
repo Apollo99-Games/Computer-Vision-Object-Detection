@@ -61,7 +61,7 @@ upperBallColour = orangeUpper;
 
 ```
 ### Demonstration:
-The ball I will be using is orange. The system here is tested against objects of the same color. When it detects something it will show the distance and put a green circle around it
+The ball I will be using is orange. The system here is tested against objects of the same color. When it detects something it will show the distance and put a yellow circle around it
 The ball is at the back in this picture with a bunch of imposters.
 
 ![Screenshot 5_10_2024 8_28_50 PM](https://github.com/Apollo99-Games/Computer-Vision-Object-Detection/assets/163193765/74334cd9-1263-4369-a6c8-9635a92947b4)
